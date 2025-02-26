@@ -43,27 +43,6 @@ Using the provided dataset, this analysis answers the following questions:
 
 ---
 
-## 📁 Dataset Information
-- The dataset contains **two weeks of trip request data** with timestamps, completed trip counts, driver supply, and other key metrics.
-- **Time Zone:** Local time values represent the **start of each hour** (e.g., `15` represents 3:00 PM - 4:00 PM).
-
----
-
-## 🔧 Tools & Libraries Used
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)**
-- **Jupyter Notebook**
-- **Data Visualization & Analysis**
-
----
-
-## 📊 Visual Insights
-To confirm insights, **data visualizations** were used to:
-- Identify trends in driver supply vs. demand
-- Determine peak hours and optimal driver scheduling
-- Evaluate fluctuations in trip requests and completed trips
-
----
-
 ## 🚀 Results & Key Findings
 *Results of the analysis are posted as Uberanalysis.ipynb*
 
