@@ -34,6 +34,12 @@ Below are the columns available:
 
 ---
 
+## 📩 Data Access
+Due to file size limits, the dataset is not included in this repository.  
+If you need access to the data, feel free to email me.
+
+-----
+
 ## 💡 Hint
 The `.tar.bz2` file is a compressed CSV. You can load it into a Pandas DataFrame using:
 
@@ -44,6 +50,3 @@ df = pd.read_csv("BeerDataScienceProject.tar.bz2", compression="bz2")
 
 ---
 
-## 📩 Data Access
-Due to file size limits, the dataset is not included in this repository.  
-If you need access to the data, feel free to email me.
